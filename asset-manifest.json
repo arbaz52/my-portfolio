@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.f136c645.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.59047eac.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.59047eac.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.b1c049bd.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.b1c049bd.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/my-portfolio/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.ceae051f.chunk.js": "/my-portfolio/static/js/2.ceae051f.chunk.js",
+    "static/js/2.ceae051f.chunk.js.map": "/my-portfolio/static/js/2.ceae051f.chunk.js.map",
+    "static/js/3.f66331ab.chunk.js": "/my-portfolio/static/js/3.f66331ab.chunk.js",
+    "static/js/3.f66331ab.chunk.js.map": "/my-portfolio/static/js/3.f66331ab.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/my-portfolio/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.f136c645.chunk.css.map": "/my-portfolio/static/css/main.f136c645.chunk.css.map",
+    "static/js/2.ceae051f.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.ceae051f.chunk.js.LICENSE.txt",
+    "static/media/background.04ee4cbc.png": "/my-portfolio/static/media/background.04ee4cbc.png",
+    "static/media/event-flow.9ba8ab03.png": "/my-portfolio/static/media/event-flow.9ba8ab03.png",
+    "static/media/graduation-hat.6650c954.png": "/my-portfolio/static/media/graduation-hat.6650c954.png",
+    "static/media/interior-design.794b0a1d.png": "/my-portfolio/static/media/interior-design.794b0a1d.png",
+    "static/media/karma-fairy.c71e49e3.png": "/my-portfolio/static/media/karma-fairy.c71e49e3.png",
+    "static/media/lits-pay.f5815dc6.png": "/my-portfolio/static/media/lits-pay.f5815dc6.png",
+    "static/media/my picture.929ef7ee.png": "/my-portfolio/static/media/my picture.929ef7ee.png",
+    "static/media/shopee.1145017b.png": "/my-portfolio/static/media/shopee.1145017b.png",
+    "static/media/thumbnail-event-flow.a374eebd.png": "/my-portfolio/static/media/thumbnail-event-flow.a374eebd.png",
+    "static/media/thumbnail-interior-design.db4ad206.png": "/my-portfolio/static/media/thumbnail-interior-design.db4ad206.png",
+    "static/media/thumbnail-karma-fairy.15190c2f.png": "/my-portfolio/static/media/thumbnail-karma-fairy.15190c2f.png",
+    "static/media/thumbnail-lits-pay.c87856ba.png": "/my-portfolio/static/media/thumbnail-lits-pay.c87856ba.png",
+    "static/media/thumbnail-shopee.435f7ba0.png": "/my-portfolio/static/media/thumbnail-shopee.435f7ba0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1c049bd.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.ceae051f.chunk.js",
+    "static/css/main.f136c645.chunk.css",
+    "static/js/main.59047eac.chunk.js"
+  ]
+}
